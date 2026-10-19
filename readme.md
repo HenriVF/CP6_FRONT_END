@@ -3,8 +3,7 @@
 **Portfólio Henri VF · RM569586** — landing page criada com IA
 
 - **GitHub:** https://github.com/HenriVF
-- **Repositório:** _(cole o link)_
-- **Deploy:** _(cole o link)_
+- **Repositório:** https://github.com/HenriVF/CP6_FRONT_END.git
 
 ## Como abrir o projeto
 
