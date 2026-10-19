@@ -101,11 +101,3 @@ _Uma ficha por rodada. Preencha com o que aconteceu de verdade na conversa com a
 
 **Roteiro de QA:** clique em todos os links e botões; teste em celular, tablet e desktop; confira o menu no celular; role a página para ver as animações; ative "reduzir movimento" no sistema; navegue só com o teclado (Tab).
 
-## 6. Resultado final
-
-- **Repositório:** _(cole o link)_
-- **Deploy:** _(cole o link)_
-
-### Reflexão
-
-_Escreva com suas palavras: o que ficou como você imaginou? O que ainda mudaria (por exemplo, links de deploy em cada projeto, imagens reais, seção de eventos)?_
