@@ -1,4 +1,4 @@
-# Checkpoint 6: Vibecoding
+# Checkpoint 6
 
 **Portfólio Henri VF · RM569586** — landing page criada com IA
 
